@@ -1,4 +1,4 @@
-# 🛰️ Space Debris Detection using LiDAR
+# 🛰️ CanSat for Debris Detection
 
 This project implements a **LiDAR-based system for detecting space debris** in Low Earth Orbit (LEO).  
 It uses **Arduino firmware, LiDAR sensors, and Python applications** to simulate debris detection and tracking.  
