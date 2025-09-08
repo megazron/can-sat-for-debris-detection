@@ -77,7 +77,7 @@ This project proposes a **LiDAR-based pico-satellite system** designed to detect
 ---
 
 ## 👨‍💻 Authors
-Developed by **Team TECHVOC**  
+Developed by **Team MegaZroN**  
 Students of MGM’s Jawaharlal Nehru Engineering College.  
 
 Portfolio: [https://megazron.com](https://megazron.com)  
